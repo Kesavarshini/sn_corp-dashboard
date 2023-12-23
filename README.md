@@ -1,2 +1,2 @@
 # sn_corp-dashboard
-I learned creating this dashboard from Skill Nation Power BI Workshop.
+This is the first small tableau dashboard I've created.
